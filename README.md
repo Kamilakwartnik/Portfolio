@@ -19,3 +19,7 @@ Committed employee, who wants to develop in the field of manual testing. I have 
 - As part of my current job, I make improvement proposals for
 software tools I use, including but not limited to SIDAS and Lotus
 - Proficient in Excel
+# Courses
+* The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - Udemy (in progress)
+* Manual tester - 2 month theoretical and practical course - Coders Lab
+* Programming Girl! - Basics of HTML, CSS and JavaScript - Course Zone
