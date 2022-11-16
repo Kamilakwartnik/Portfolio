@@ -1,9 +1,9 @@
 # Portfolio
 # Tools used in testing:
-* JIRA
+* [JIRA](https://www.atlassian.com/software/jira)
 * TestLink
 * Postman
 * Trello
 * Slack
 * SoapUl
-* Narzędzia Google
+* Google tools
