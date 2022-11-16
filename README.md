@@ -27,3 +27,6 @@ software tools I use, including but not limited to SIDAS and Lotus
 * [ISTQB Certified Tester SJSI](https://sjsi.org/ist-qb/do-pobrania/)
 * [ABC Testowania Oprogramowania Waldemar Szafraniec](https://www.wyszkolewas.com.pl/abc-testowania-ebook/)
 * [Testowanie oprogramowania Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+# Groups for knowledge gathering:
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* 
