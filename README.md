@@ -1,4 +1,6 @@
 # Portfolio
+# About me
+Committed employee, who wants to develop in the field of manual testing. I have experience in work involving identification of errors and inaccuracies, as well as reporting.
 # Tools used in testing:
 * [JIRA](https://www.atlassian.com/software/jira)
 * [TestLink](https://testlink.org/)
