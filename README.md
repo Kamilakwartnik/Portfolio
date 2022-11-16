@@ -29,4 +29,7 @@ software tools I use, including but not limited to SIDAS and Lotus
 * [Testowanie oprogramowania Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # Groups for knowledge gathering:
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
-* 
+* [Testowanie oprogramowania](https://www.facebook.com/groups/215557562210470/?mibextid=HsNCOg)
+* [Praca w IT dla Stażystów-Juniorów](https://www.facebook.com/groups/praca.w.it.polska/?mibextid=HsNCOg)
+* [Testowanie oprogramowania - Praca, ogłoszenia](https://www.facebook.com/groups/215557562210470/?mibextid=HsNCOg)
+* [QA Testers - job offers, oferty pracy](https://pl-pl.facebook.com/groups/808752555920542/about/)
